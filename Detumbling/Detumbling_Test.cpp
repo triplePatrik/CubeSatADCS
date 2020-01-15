@@ -176,7 +176,7 @@ int DetumblingTest(){
         val_mag_now = Avrage; 
         //--------------------------Calculate B-dot --------------------------------
         B_dot = (val_mag_now - val_mag_previous)/1.5;
-        B_dot.print();
+        //B_dot.print();
         val_mag_previous = val_mag_now;
         //----------------Calculate Control Output for Magnetorquers----------------
         ControlOut[0]= -Cont_gain.getNumber(0,0) * B_dot.getNumber(0,0); 
