@@ -1,0 +1,8 @@
+BUILD
+.mbed
+mbed-os
+BUILD/
+.vscode/
+*.csv
+
+*.data
