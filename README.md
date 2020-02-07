@@ -5,7 +5,7 @@
 Developed by Remy Chatel for the University of Glasgow in the context of
 a MSc in Electrical and Electronical Engineering.
 
-# CubeSat Attitude Determination System
+# CubeSat Attitude Control System
 
 Developed by Patrik Pauliny for the University of Glasgow in the context of
 a MEng in Mechatronics.
